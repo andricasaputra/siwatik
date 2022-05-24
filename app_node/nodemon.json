@@ -1,0 +1,3 @@
+{
+  "ignore": ["./app_node/session/*", "./app_node/store/*", "./app_node/store.json"]
+}
